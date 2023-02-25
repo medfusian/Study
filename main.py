@@ -27,7 +27,7 @@ def make_car(brand, model, **other):
     return car
 
 
-КЛАССЫ
+#КЛАССЫ
 
 
 class Snake():
@@ -48,7 +48,7 @@ Snake1 = Snake("Python", 14)
 Snake1.eat(12)
 
 
-ОБЪЕКТ-ГЕНЕРАТОР
+#ОБЪЕКТ-ГЕНЕРАТОР
 
 def skat(n):
     """Функция, которая возвращает объект-генератор, способный предоставить нам 
@@ -96,7 +96,8 @@ except StopIteration:
     print("Заряды в скатерти кончились!")
 
 
-АСИНХРОННОСТЬ
+#АСИНХРОННОСТЬ
+
 import asyncio
 import time
 

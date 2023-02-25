@@ -1,1 +1,1 @@
-Repository with my Python learning process
+Repository with my learning process

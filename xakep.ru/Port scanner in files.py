@@ -7,12 +7,12 @@ ports = [
 ]
 # Открываем файл со списком IP
 f = open(
-    u'C:\\Users\\vlads\\Documents\\Python\\Test1\\xakep.ru\\Список IP.txt',
+    u'C:\\Users\\vlads\\Documents\\Study\\xakep.ru\\Список IP.txt',
     'r',
     encoding='UTF-8')
 # Открываем файл с отчетом
 fl = open(
-    u'C:\\Users\\vlads\\Documents\\Python\\Test1\\xakep.ru\\Отчет IP.txt',
+    u'C:\\Users\\vlads\\Documents\\Study\\xakep.ru\\Отчет IP.txt',
     'a',
     encoding='UTF-8')
 for ip in f:
